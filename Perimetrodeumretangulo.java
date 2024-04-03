@@ -8,10 +8,10 @@ public class Perimetrodeumretangulo {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Calculo de um perimetro de um retangulo");
             System.out.println("Digite o valor da base do retangulo");
-            soma = scanner.nextDouble();
+                soma = scanner.nextDouble();
 
             System.out.println("Digite a altura do retangulo");
-            soma = soma*2 + scanner.nextDouble()*2;
+                soma = soma*2 + scanner.nextDouble()*2;
 
             System.out.println("O perimetro do retangulo e " + soma);
 
