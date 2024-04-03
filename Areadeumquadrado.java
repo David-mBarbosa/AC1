@@ -9,7 +9,7 @@ public class Areadeumquadrado {
         System.out.println("Calculo da area de um quadrado");
         System.out.println("Digite a medida do lado do quadrado");
         double lado = scanner.nextDouble();
-        Area = lado*lado;
+            Area = lado*lado;
 
         System.out.println("A area do quadrado e " + Area);
         
